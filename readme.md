@@ -1,5 +1,3 @@
-# 4D. Bcrypt-login-app
-
 ---
 
 - Overview
